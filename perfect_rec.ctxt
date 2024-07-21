@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=perfect_rec
+comment1.params=nm
+comment1.target=perfect_rec(int)
+comment2.params=i
+comment2.target=int\ sum_of_factors(int)
+comment3.params=
+comment3.target=void\ check()
+comment4.params=p
+comment4.target=void\ main(int)
+numComments=5
